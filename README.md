@@ -10,11 +10,14 @@
 2. считаем площадь по формуле area = radius ** 2 * math.pi;
 3. выводим в print(round(area,4)), округляя до 4 знаков после запятой - площадь расчитана;
 4. считаем точки расстояние от центра окружности: d1 = (point_1[0] ** 2 + point_1[1] **2 ) ** 0.5;
-5. сравниваем с радиусом и выводим результат: print(d1<=radius)
+5. сравниваем с радиусом и выводим результат сравнения: print(d1<=radius)
+6. вывод: 5541.7694
+True
+False
 
 ## Задача 2
 1. расставляем знаки: res = 1 * 2 + 3 + 4 * 5;
-2. выводим результат: print(res)
+2. выводим результат: print(res): 25
 
 ## Задача 3
 1. создаем массив для фильмов: movies = [];
@@ -23,6 +26,11 @@
 print(movies[-1])
 print(movies[1])
 print(movies[-2])
+4. вывод:
+fight club
+gruz 200
+no country for old men
+oldboy
 
 ## Задача 4
 1. создаем массив массивов с именами и ростами членов семьи: my_family_height = [
@@ -30,9 +38,9 @@ print(movies[-2])
     ['yui',170],
     ['silly',165]
 ];
-2. выводим рост отца: print(f"dad's height: {my_family_height[0][1]}");
+2. выводим рост отца: print(f"dad's height: {my_family_height[0][1]}"): dad's height: 180;
 3. при помощи цикла for в переменную sh складываем значения роста членов семьи
-4. выводим результат: print(f"summed family height: {sh}")
+4. выводим результат: print(f"summed family height: {sh}"): summed family height: 515
 
 ## Задача 5
 1. сажаем медведя на первую позицию: zoo.insert(1,'bear')
