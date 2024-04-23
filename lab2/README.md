@@ -34,4 +34,4 @@
 ![image](https://github.com/chimokko/py1/assets/155952073/1cf87718-337b-4743-8801-cafce01d3058)
 
 ## источники:
-https://docs.python.org/3/library/itertools.html
+[itertools docs](https://docs.python.org/3/library/itertools.html)
