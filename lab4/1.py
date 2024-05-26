@@ -8,10 +8,10 @@ def async_decorator(func):
 
 @async_decorator
 def create_writer(file):
+    f = open(file, 'a')
     def writer(value):
-        with open(file, 'a') as f:
-            f.write(str(value) + '\n')
-
+        f.write(str(value) + '\n')
+        f.flush()
     return writer
 
 async def main():
