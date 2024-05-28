@@ -25,3 +25,9 @@
 обработанное изображение ("output_image.png"):
 
 ![image](https://github.com/chimokko/py1/blob/main/lab5/output_image.png)
+
+## Источники:
+https://pillow.readthedocs.io/en/stable/
+https://docs.python.org/3/library/functions.html
+https://docs.python.org/3/library/functools.html
+https://www.geeksforgeeks.org/python-pil-getpixel-method/
