@@ -25,3 +25,7 @@
 9. вывод:
 ![image](https://github.com/user-attachments/assets/4123e3da-9af4-4fe4-b62c-4d77ff1dac7f)
 
+## задача 2:
+![image](https://github.com/user-attachments/assets/b66d67a8-01e3-4b5a-b05b-eccb9619f97f)
+
+### код с рекурсией:
