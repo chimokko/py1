@@ -11,6 +11,7 @@
 8. прописываем root, создаем объекты label и button, размещаем их через .grid по сетке
 9. запускаем root.mainloop()
 10. вывод:
+
 ![image](https://github.com/user-attachments/assets/6fe1d0cf-d85d-4114-b70f-5c6804ad1a9d)
 ![image](https://github.com/user-attachments/assets/a6c8ced5-c365-4ab3-bfff-5c62a8f29e7c)
 ![image](https://github.com/user-attachments/assets/6b8d83fb-8e81-4777-8373-f68579f51fa2)
